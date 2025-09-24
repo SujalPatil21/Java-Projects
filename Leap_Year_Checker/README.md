@@ -23,5 +23,7 @@ It accepts user input from the console and demonstrates the use of **conditional
 ![Leap Year Output](Output.png)
 
 ## Author
+- **Sujal Patil**  
+- **GitHub**: [SujalPatil21](https://github.com/SujalPatil21)  
+- **Email**: sujalpatil21@gmail.com  
 
-Sujal Patil
