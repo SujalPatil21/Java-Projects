@@ -27,5 +27,5 @@ It accepts two numbers from the user and displays the results directly in the co
 
 ## Author
 - **Sujal Patil**  
-- [GitHub Profile](https://github.com/SujalPatil21)  
-- sujalpatil21@gmail.com  
+- **GitHub**: [SujalPatil21](https://github.com/SujalPatil21)  
+- **Email**: sujalpatil21@gmail.com  
