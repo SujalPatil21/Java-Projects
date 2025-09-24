@@ -30,3 +30,9 @@ A collection of Java projects and exercises designed to demonstrate programming 
 Each project will have its own folder with a `README.md` and instructions on how to compile and run the program.  
 
 This repository is a work in progress and will be updated regularly as new projects are added.
+
+## Author
+- **Sujal Patil**  
+- **GitHub**: [SujalPatil21](https://github.com/SujalPatil21)  
+- **Email**: sujalpatil21@gmail.com  
+
