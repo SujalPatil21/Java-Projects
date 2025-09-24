@@ -23,3 +23,5 @@ It accepts user input from the console and demonstrates the use of **conditional
 ## Author
 
 Sujal Patil
+  https://github.com/SujalPatil21
+  sujalbpatil21@gmail.com
