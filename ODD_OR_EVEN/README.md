@@ -21,7 +21,7 @@ It accepts user input from the console and demonstrates the use of **conditional
 ![Odd Even Output](Output.png)
 
 ## Author
+- **Sujal Patil**  
+- **GitHub**: [SujalPatil21](https://github.com/SujalPatil21)  
+- **Email**: sujalpatil21@gmail.com  
 
-Sujal Patil  
-https://github.com/SujalPatil21  
-sujalpatil21@gmail.com
