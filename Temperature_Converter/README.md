@@ -23,3 +23,8 @@ It accepts user input using the **Scanner** class and displays the converted res
 
 ## 📸 Screenshot
 ![Program Output](Output.png)
+
+## Author
+- **Sujal Patil**  
+- **GitHub**: [SujalPatil21](https://github.com/SujalPatil21)  
+- **Email**: sujalpatil21@gmail.com  
