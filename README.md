@@ -21,7 +21,7 @@ A collection of Java projects and exercises designed to demonstrate programming 
 
 ## Technologies
 
-- Java SE 8+
+- Java 23
 - Object-Oriented Programming
 - Core Java concepts: loops, conditionals, classes, objects, arrays, file handling
 
