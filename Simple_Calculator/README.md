@@ -13,7 +13,7 @@ It accepts two numbers from the user and displays the results directly in the co
 ---
 
 ## How to Run
-1. Open the project in any Java IDE (IntelliJ, Eclipse, VS Code).  
+1. Open the project in any Java IDE (IntelliJ , Eclipse , VS Code).  
 2. Compile and run `Calculator.java`.  
 3. Enter two numbers when prompted.  
 4. The program will display the result of all arithmetic operations.  
