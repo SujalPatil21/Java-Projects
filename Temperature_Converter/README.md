@@ -9,7 +9,7 @@ It accepts user input using the **Scanner** class and displays the converted res
 - Convert **Celsius → Fahrenheit**
 - Convert **Fahrenheit → Celsius**
 - Interactive user input
-- Beginner-friendly code structure
+- Beginner - friendly code structure
 
 ---
 
