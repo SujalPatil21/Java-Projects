@@ -1,4 +1,4 @@
-# Simple Calculator
+# Calculator Using Switch Case
 
 A simple Java program that works as a **basic calculator**.  
 It accepts two numbers and performs the selected operation: **Addition, Subtraction, Multiplication, or Division**.
