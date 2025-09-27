@@ -1,23 +1,29 @@
 import java.util.Scanner;
 
-public class Palindrome{
+public class Palindrome_String{
 
-    public static void main(String[] args){
+    public static void main(String args[]){
 
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter A Number:");
-        int num = sc.nextInt();
-        int orginal = num;
-        int reverse = 0;
-        while(num != 0){
 
-            int digit = num %10;
-            reverse = reverse * 10 + digit;
-            num = num/10;
+        System.out.println("Enter The String:");
+        String word = sc.nextLine();
+
+        String reversed = "";
+        for(int i = word.length()-1 ; i>=0 ; i--){
+
+            reversed += word.charAt(i);
+
         }
-        if (reverse == orginal){
 
-            System.out.println("It Is A Palindrome Number");
+        if(word.equals(reversed)){
+
+            System.out.println("It Is Palindrome");
+
+        }
+        else {
+
+            System.out.println("It Is Not Palindrome");
         }
     }
 }
