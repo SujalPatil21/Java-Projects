@@ -9,6 +9,7 @@ It accepts input for Maths, Science, History, and Geography, calculates the tota
 - Accepts marks for four subjects from the user  
 - Calculates total and average marks  
 - Assigns a grade based on the average:
+  
   - A: 90–100
   - B: 80–89
   - C: 70–79
