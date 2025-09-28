@@ -6,7 +6,7 @@ It accepts an integer input from the user and displays the result accordingly.
 ---
 
 ## Features
-- Accepts a number from the user  
+- It Accepts a number from the user  
 - Checks whether the number is:
   - Positive  
   - Negative  
