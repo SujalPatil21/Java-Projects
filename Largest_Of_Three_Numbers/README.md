@@ -15,7 +15,7 @@ It uses conditional statements (`if-else`) to compare the three numbers.
 ## How to Run
 1. Open the project in any Java IDE (IntelliJ, Eclipse, VS Code) or terminal.  
 2. Compile and run `Largest_Number_Of_Three.java`.  
-3. Enter three numbers when prompted.  
+3. Enter three numbers when prompted .  
 4. The program will display which number is the largest.  
 
 ---
