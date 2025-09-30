@@ -1,6 +1,6 @@
 # Largest of Three Numbers
 
-A simple Java program to **find the largest among three numbers** entered by the user.  
+IT is a simple Java program to **find the largest among three numbers** entered by the user.  
 It uses conditional statements (`if-else`) to compare the three numbers.
 
 ---
