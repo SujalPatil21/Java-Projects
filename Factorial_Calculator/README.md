@@ -1,6 +1,6 @@
 # Factorial Calculator
 
-A simple Java program to **calculate the factorial of a number**.  
+It is a simple Java program to **calculate the factorial of a number**.  
 The user provides a number, and the program calculates its factorial using a loop.
 
 ---
