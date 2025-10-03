@@ -26,6 +26,11 @@ The program stores and displays details of students such as **roll number, name,
 
 ---
 
+## Screenshot
+![Student Management](Output.png)
+
+---
+
 ## Author  
 - **Sujal Patil**  
 - **GitHub**: [SujalPatil21](https://github.com/SujalPatil21)  
