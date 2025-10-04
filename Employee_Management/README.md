@@ -1,6 +1,6 @@
 # Employee Details  
 
-A simple Java program that demonstrates the use of **classes, objects, constructors, methods, and the `this` keyword** in Java.  
+It is a simple Java program that demonstrates the use of **classes, objects, constructors, methods, and the `this` keyword** in Java.  
 The program stores and displays employee details such as **ID, name, and monthly salary**, and also calculates their **annual salary**.  
 
 ---
