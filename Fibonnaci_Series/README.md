@@ -1,6 +1,6 @@
 # Fibonacci Series Program
 
-A simple Java program to generate the **Fibonacci series** up to a user-defined number using loops and variables.
+It is a simple Java program to generate the **Fibonacci series** up to a user-defined number using loops and variables.
 
 ---
 
