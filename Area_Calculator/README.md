@@ -26,6 +26,11 @@ It is a simple Java program that demonstrates **method overloading** by calculat
 
 ---
 
+## Screenshot
+![Program Output](Output.png)
+
+---
+
 ## Author
 - **Sujal Patil**  
 - **GitHub**: [SujalPatil21](https://github.com/SujalPatil21)  
