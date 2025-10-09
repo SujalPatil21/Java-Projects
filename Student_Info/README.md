@@ -25,6 +25,11 @@ A simple Java program that allows the user to **accept and display student detai
    java Student
 ---
 
+## Screenshot
+![Program Output](Output.png)
+
+---
+
 ## Author
 - **Sujal Patil**  
 - **GitHub**: [SujalPatil21](https://github.com/SujalPatil21)  
