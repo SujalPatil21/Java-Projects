@@ -1,6 +1,6 @@
 # Account Details Program
 
-A simple Java program to demonstrate the use of **constructors**, **objects**, and **methods** in a class by displaying account information.
+Ir is simple Java program to demonstrate the use of **constructors**, **objects**, and **methods** in a class by displaying account information.
 
 ---
 
