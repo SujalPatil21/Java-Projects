@@ -1,7 +1,7 @@
 
 # Account Details Program
 
-It is a simple Java program to demonstrate the use of **constructors**, **objects**, and **methods** in a class by displaying account information.
+A simple Java program to demonstrate the use of **constructors**, **objects**, and **methods** in a class by displaying account information.
 
 ---
 
