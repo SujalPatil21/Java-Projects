@@ -1,6 +1,6 @@
 # Factorial Calculator (Recursion)
 
-It is a simple Java program that calculates the **factorial of a number** using **recursion**.  
+A simple Java program that calculates the **factorial of a number** using **recursion**.  
 
 ---
 
