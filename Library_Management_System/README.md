@@ -1,6 +1,6 @@
 # Library Management System
 
-A Java program that simulates a simple **Library Management System** to manage books, issue, return, and display book details.
+It is a  Java program that simulates a simple **Library Management System** to manage books, issue, return, and display book details.
 
 ---
 
