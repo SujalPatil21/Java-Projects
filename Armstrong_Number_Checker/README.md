@@ -6,7 +6,7 @@ For example:
 - 153 → 1³ + 5³ + 3³ = 153  
 - 370 → 3³ + 7³ + 0³ = 370  
 
----
+----
 
 ## Features
 - Accepts a number as input from the user  
