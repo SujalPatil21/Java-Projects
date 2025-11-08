@@ -1,5 +1,5 @@
 # Find Minimum and Maximum Number  
-A Java program takes 5 numbers as input from the user and finds the **minimum** and **maximum** values among them using an array and comparison logic.
+The Java program takes 5 numbers as input from the user and finds the **minimum** and **maximum** values among them using an array and comparison logic.
 
 ---
 
