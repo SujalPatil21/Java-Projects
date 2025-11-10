@@ -1,5 +1,5 @@
 # Right Aligned Star Pattern  
-This program prints a **right-aligned star pattern** based on the number of rows specified in the code.
+A program prints a **right-aligned star pattern** based on the number of rows specified in the code.
 
 ---
 
