@@ -1,6 +1,6 @@
 # Armstrong Number Checker
 
-The simple Java program to **check if a given number is an Armstrong number**.  
+A simple Java program to **check if a given number is an Armstrong number**.  
 An Armstrong number (also called a narcissistic number) is a number in which the sum of the cubes of its digits is equal to the number itself.  
 For example:  
 - 153 → 1³ + 5³ + 3³ = 153  
