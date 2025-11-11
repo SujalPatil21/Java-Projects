@@ -1,6 +1,6 @@
 # Odd Number Finder
 
-A simple Java program that prints all **odd numbers** within a given range.
+The simple Java program that prints all **odd numbers** within a given range.
 
 ---
 
