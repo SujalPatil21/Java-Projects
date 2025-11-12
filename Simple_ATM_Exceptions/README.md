@@ -20,7 +20,7 @@ It validates withdrawal amounts, manages balance, and demonstrates both **built-
 
 ## 📸 Screenshot
 **Output 1:**  
-![Program Output 1](Outpt1.png)
+![Program Output 1](Output1.png)
 
 **Output 2:**  
 ![Program Output 2](Output2.png)
