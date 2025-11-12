@@ -1,5 +1,5 @@
 # Simple ATM Withdrawal  
-AJava program that simulates an ATM withdrawal system using **exception handling**.  
+A Java program that simulates an ATM withdrawal system using **exception handling**.  
 It validates withdrawal amounts, manages balance, and demonstrates both **built-in** and **custom exceptions**.
 
 ---
