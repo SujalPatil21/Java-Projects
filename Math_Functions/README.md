@@ -1,5 +1,5 @@
 # Math Functions Program
-A Java program demonstrating various mathematical operations such as finding minimum, maximum, power, and square root using the `Math` class.
+Java program demonstrating various mathematical operations such as finding minimum, maximum, power, and square root using the `Math` class.
 
 ---
 
