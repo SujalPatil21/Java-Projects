@@ -1,6 +1,6 @@
 # Armstrong Number Checker (Recursion)
 
- Ai a Java program that checks whether a given number is an **Armstrong number** using **recursion**.
+ A Java program that checks whether a given number is an **Armstrong number** using **recursion**.
 
 ---
 
