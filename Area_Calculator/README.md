@@ -1,6 +1,6 @@
 # Area Calculator (Method Overloading)
 
- simple Java program which demonstrates **method overloading** by calculating the areas of different shapes:  
+A simple Java program which demonstrates **method overloading** by calculating the areas of different shapes:  
 - Square  
 - Rectangle  
 - Circle  
