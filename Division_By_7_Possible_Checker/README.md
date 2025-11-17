@@ -1,6 +1,6 @@
 # Division by 7 Checker
 
-It simple Java program that checks whether a given number is divisible by **7**.
+Asimple Java program that checks whether a given number is divisible by **7**.
 
 ---
 
