@@ -1,5 +1,5 @@
 # Generic Java Program
-A simple program demonstrating Java Generics using a custom generic class that stores different data types.
+A simple program demonstrating Java Generics using a custom generic class that stores different data types. 
 
 ---
 
