@@ -1,6 +1,6 @@
 
 # ArrayList Operations Menu
-
+ 
 A simple Java program that demonstrates common `ArrayList` operations using a user-friendly menu. Users can add, remove, replace, insert, and display elements in an `ArrayList`.
 
 ---
